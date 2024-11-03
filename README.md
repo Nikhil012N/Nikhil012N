@@ -13,8 +13,6 @@ I'm also an active problem-solver and enjoy honing my strategic thinking through
 
 ---
 
-### Connect with Me
-[LinkedIn Profile](https://www.linkedin.com/in/nikhilkumar012nk/)
 
 ## ✔️ I Can Do
 <div style="display: flex; gap: 10px;">
@@ -36,7 +34,7 @@ I'm also an active problem-solver and enjoy honing my strategic thinking through
   <img src="https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch">
 </div>
 
-## 💻 Tech Stack
+## Tech STACK
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
@@ -63,7 +61,6 @@ I'm also an active problem-solver and enjoy honing my strategic thinking through
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -73,7 +70,7 @@ I'm also an active problem-solver and enjoy honing my strategic thinking through
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-## Test Projects
+## Tech Projects
 
 ### Mindgrades Assignment
 - **Description:** A Next.js application that optimizes image handling in the tags section. It features a clean interface designed for efficient user interaction.
