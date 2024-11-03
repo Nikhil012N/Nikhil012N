@@ -1,15 +1,40 @@
 # -> Nikhil
-## About Me
 
-I’m a <strong>full-stack developer</strong> specializing in building <strong>scalable, user-friendly applications</strong> with the <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js). Currently, I’m working on redeveloping <strong>Skyworld</strong> and <strong>TCDAM</strong>, utilizing <strong>Next.js</strong> for <strong>server-side rendering</strong>, <strong>Builder.io</strong> for content management, and <strong>Valida</strong> and <strong>Regula APIs</strong> for user authentication.
+## --> About Me
+I’m a **full-stack developer** specializing in **scalable, user-friendly applications** using the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
-I’m interested in collaborating on <strong>SaaS platforms</strong> and <strong>open-source projects</strong> that focus on enhancing <strong>user experience</strong> and involve complex data management with tools like <strong>Redux Toolkit</strong>.
+### Collaboration Interests
+- **SaaS platforms** and **open-source projects** focused on user experience and complex data management with tools like **Redux Toolkit**.
 
-Currently, I’m expanding my skills with <strong>React Native</strong> and exploring <strong>serverless technologies</strong> such as <strong>AWS Lambda</strong> and <strong>GraphQL</strong> for improved API performance.
+### Exploring New Technologies
+- **React Native** for mobile development, **serverless architectures** (e.g., **AWS Lambda**), and **GraphQL** for API efficiency.
 
-Feel free to reach out about front-end development with <strong>React</strong>, state management using <strong>Redux Toolkit</strong>, or working with <strong>MongoDB</strong> in modern applications.
+I'm also an active problem-solver and enjoy honing my strategic thinking through **chess**.
 
-I enjoy solving <strong>coding challenges</strong>, participating in <strong>hackathons</strong>, and honing strategic thinking through <strong>chess</strong>.
+---
+
+### Connect with Me
+[LinkedIn Profile](https://www.linkedin.com/in/nikhilkumar012nk/)
+
+## ✔️ I Can Do
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Chess-%23000000.svg?style=for-the-badge&logo=chess&logoColor=white" alt="Chess">
+</div>
+
+---
+
+## ❌ I Don’t Do
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
+  <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch">
+</div>
 
 ## 💻 Tech Stack
 
@@ -48,7 +73,7 @@ I enjoy solving <strong>coding challenges</strong>, participating in <strong>hac
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-## Projects
+## Test Projects
 
 ### Mindgrades Assignment
 - **Description:** A Next.js application that optimizes image handling in the tags section. It features a clean interface designed for efficient user interaction.
