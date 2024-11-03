@@ -1,5 +1,4 @@
-# Nikhil’s GitHub Profile
-
+# -> Nikhil
 ## About Me
 
 I’m a <strong>full-stack developer</strong> specializing in building <strong>scalable, user-friendly applications</strong> with the <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js). Currently, I’m working on redeveloping <strong>Skyworld</strong> and <strong>TCDAM</strong>, utilizing <strong>Next.js</strong> for <strong>server-side rendering</strong>, <strong>Builder.io</strong> for content management, and <strong>Valida</strong> and <strong>Regula APIs</strong> for user authentication.
