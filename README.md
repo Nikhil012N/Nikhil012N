@@ -87,42 +87,6 @@ I'm also an active problem-solver and enjoy honing my strategic thinking through
 - **Technologies:** Next.js, React, JavaScript, Tailwind CSS
 - **Live Demo:** [akeshya.vercel.app](https://akeshya.vercel.app)
 
----
-# 👋 Hey, I'm Nikhil!
-
-I’m a **Full-Stack Developer** specializing in building **scalable, user-friendly web applications** primarily using the **MERN stack** (MongoDB, Express.js, React, Node.js). I'm passionate about creating efficient solutions and clean user experiences.
-
----
-
-## 🛠️ Core Skills & Technologies
-
-My primary toolkit revolves around the MERN stack, but I'm proficient with a wider range of technologies:
-
-**Core:**
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</div>
-
-<br/>
-
-<details>
-  <summary><strong>📚 View Full Tech Stack</strong></summary>
-  <br/>
-  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GithubPages">
-    <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" alt="Context-API">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
     <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo">
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
@@ -173,31 +137,3 @@ Here are a few examples of my work:
     * **Description:** A modern Next.js foundation focusing on performance and scalability, leveraging SSR and SSG.
     * **Tech:** Next.js, React, JavaScript, Tailwind CSS
     * **Demo:** [akeshya.vercel.app](https://akeshya.vercel.app)
-
----
-
-## 🌱 Collaboration & Learning
-
-* **Interested in:** Collaborating on **SaaS platforms** and **open-source projects**, especially those focused on great user experience and complex data management (familiar with **Redux Toolkit**).
-* **Currently Exploring:** Diving deeper into **React Native** 📱, **Serverless Architectures** (like **AWS Lambda** ☁️), and **GraphQL** 🔗 for API efficiency.
-
----
-
-## ♟️ Beyond Code
-
-Outside of development, I'm an active problem-solver and enjoy honing my strategic thinking through **chess**.
-
----
-
-## 🚫 What I Don't Focus On
-
-While I appreciate design, my expertise lies in development. I typically don't handle UI/UX design tasks using tools like:
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
-  <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch">
-</div>
-
----
