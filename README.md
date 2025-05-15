@@ -70,8 +70,11 @@ I'm also an active problem-solver and enjoy honing my strategic thinking through
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-## Tech Projects
 
+ ### CRM Dashboard Project
+- **Description:** A modern, responsive CRM dashboard built with React, TypeScript, and Tailwind CSS, designed for sales, customer support, and team management.
+- **Technologies:** React, JavaScript, Tailwind CSS, Recharts,RadixUI
+- **Live Demo:** https://teqmavens.vercel.app
 ### Mindgrades Assignment
 - **Description:** A Next.js application that optimizes image handling in the tags section. It features a clean interface designed for efficient user interaction.
 - **Technologies:** Next.js, React, JavaScript, Tailwind CSS
