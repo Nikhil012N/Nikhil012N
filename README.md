@@ -71,23 +71,15 @@ I'm also an active problem-solver and enjoy honing my strategic thinking through
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
- ### CRM Dashboard Project
-- **Description:** A modern, responsive CRM dashboard built with React, TypeScript, and Tailwind CSS, designed for sales, customer support, and team management.
-- **Technologies:** React, JavaScript, Tailwind CSS, Recharts,RadixUI
-- **Live Demo:** https://teqmavens.vercel.app
-### Mindgrades Assignment
-- **Description:** A Next.js application that optimizes image handling in the tags section. It features a clean interface designed for efficient user interaction.
-- **Technologies:** Next.js, React, JavaScript, Tailwind CSS
-- **Live Demo:** [mindgrades-assignment.vercel.app](https://mindgrades-assignment.vercel.app)
-
-### Fitpeo Dashboard
-- **Description:** A responsive web application designed for Fitpeo, featuring an intuitive UI with a navbar, sidebar, and various components such as performance cards, an activity graph, an order table, and a comments section for net profit analysis.
-- **Technologies:** React, JavaScript, Tailwind CSS, Chart.js
-- **Live Demo:** [dashboard-fitpeo-three.vercel.app](https://dashboard-fitpeo-three.vercel.app)
 
 ### Akeshya Next
 - **Description:** A modern web application built with Next.js, serving as a foundation for creating efficient web applications with a focus on performance and scalability. It leverages server-side rendering and static site generation for optimal loading times.
 - **Technologies:** Next.js, React, JavaScript, Tailwind CSS
 - **Live Demo:** [akeshya.vercel.app](https://akeshya.vercel.app)
+
+### ShareMyFiles
+- **Description:** A fast, secure, and responsive web application for sharing files across multiple devices. It uses peer-to-peer (P2P) connections powered by PeerJS, allowing direct transfers without third-party servers. Users can generate QR codes, share via WhatsApp or Instagram, and connect multiple devices seamlessly for real-time sharing.  
+- **Technologies:** React, TypeScript, Vite, Tailwind CSS, PeerJS, QRCode  
+- **Live Demo:** [your-deployed-link.com](https://share-my-files.vercel.app)
 
     
