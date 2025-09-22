@@ -80,6 +80,6 @@ I'm also an active problem-solver and enjoy honing my strategic thinking through
 ### ShareMyFiles
 - **Description:** A fast, secure, and responsive web application for sharing files across multiple devices. It uses peer-to-peer (P2P) connections powered by PeerJS, allowing direct transfers without third-party servers. Users can generate QR codes, share via WhatsApp or Instagram, and connect multiple devices seamlessly for real-time sharing.  
 - **Technologies:** React, TypeScript, Vite, Tailwind CSS, PeerJS, QRCode  
-- **Live Demo:** [your-deployed-link.com](https://share-my-files.vercel.app)
+- **Live Demo:** [share-my-files.vercel.app](https://share-my-files.vercel.app)
 
     
