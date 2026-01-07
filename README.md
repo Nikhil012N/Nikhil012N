@@ -1,6 +1,4 @@
 # -> Nikhil
-
-## --> About Me
 I’m a **full-stack developer** specializing in **scalable, user-friendly applications** using the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
 ### Collaboration Interests
